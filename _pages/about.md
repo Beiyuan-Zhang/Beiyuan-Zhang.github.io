@@ -27,10 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, my friends! I am a first-year Phd student of Computer Science and Technology, Beijing Institute of Technology, under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
+Hello, my friends! Welcome to my world!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Phd student of Computer Science and Technology, Beijing Institute of Technology, under the joint supervision of Prof. [Ying Fu](https://ying-fu.github.io/) and Prof. [Junliang Xing](https://www.cs.tsinghua.edu.cn/info/1116/5088.htm) at Qiyuan Laboratory. I obtained my M.S. in School of Big Data & Software Engineering at Chongqing University in 2025, supervised by Prof. [Chunlei Fu](https://www.cse.cqu.edu.cn/info/2095/7374.htm) and B.Eng in School of Electronic and Information Engineering at Dalian University of Technology in 2022. I worked as a research assistant at the NLPR, Institute of Automation, Chinese Academy of Sciences in 2023 and 2024, supervised by Prof. [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
