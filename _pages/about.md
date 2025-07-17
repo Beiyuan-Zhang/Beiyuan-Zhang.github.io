@@ -8,8 +8,7 @@ profile:
   align: right
   image: my_img.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-  Hey, I am Batman!
+  more_info: > Hey, I am Batman!
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
