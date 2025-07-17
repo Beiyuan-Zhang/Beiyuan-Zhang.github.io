@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, my friends! Welcome to my world!
+<font color=#FF4500 size=71 face="黑体">Hello, my friends! Welcome to my world!</font>
 
-I am a first-year Phd student of Computer Science and Technology, Beijing Institute of Technology, under the joint supervision of Prof. [Ying Fu](https://ying-fu.github.io/) and Prof. [Junliang Xing](https://www.cs.tsinghua.edu.cn/info/1116/5088.htm) at Qiyuan Laboratory. I obtained my M.S. in School of Big Data & Software Engineering at Chongqing University in 2025, supervised by Prof. [Chunlei Fu](https://www.cse.cqu.edu.cn/info/2095/7374.htm) and B.Eng in School of Electronic and Information Engineering at Dalian University of Technology in 2022. I worked as a research assistant at the NLPR, Institute of Automation, Chinese Academy of Sciences in 2023 and 2024, supervised by Prof. [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/).
+I am a first-year Phd student of `Computer Science and Technology, Beijing Institute of Technology`, under the joint supervision of Prof. [Ying Fu](https://ying-fu.github.io/) and Prof. [Junliang Xing](https://www.cs.tsinghua.edu.cn/info/1116/5088.htm) at Qiyuan Laboratory. I obtained my M.S. in School of Big Data & Software Engineering at Chongqing University in 2025, supervised by Prof. [Chunlei Fu](https://www.cse.cqu.edu.cn/info/2095/7374.htm) and B.Eng in School of Electronic and Information Engineering at Dalian University of Technology in 2022. And I worked as a research assistant at the NLPR, Institute of Automation, Chinese Academy of Sciences from 2023 to 2024, supervised by Prof. [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/).
+
+My research interests lie in the intersection of Computer Vision and Machine Learning. In the past, I was focused on video generation, and now I have started exploring the delights of multimodal generation.
+
+
+
 
 
