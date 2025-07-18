@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: false
 socials_in_search: true
-posts_in_search: false
+posts_in_search: true
 bib_search: true
 
 # Dimensions
@@ -151,6 +151,11 @@ collections:
     output: true
   projects:
     output: true
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
